@@ -61,7 +61,7 @@ Screenshots
 
 This is a simple video player application built with React and Node.js.
 
-![Logo](https://github.com/username/repo-name/blob/main/images/logo.png)
+![Logo](https://github.com/7mayur14/VidTech/blob/main/logo.png)
 
 ## Features
 
