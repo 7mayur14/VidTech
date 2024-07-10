@@ -33,23 +33,25 @@ CSS: Styling the application.
 Installation
 Follow these steps to set up the project locally:
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/4mayur14/VidTech.git
+   cd video-player-app
 
+2. Install dependencies:
+   ```bash
+   npm install
 
-git clone https://github.com/4mayur14/VidTech.git
-cd video-player-app
-
-Install dependencies:
-npm install
-
-Set up environment variables:
+3. Set up environment variables:
 Create a .env file in the root directory.
 
-Add your API URL:
-REACT_APP_API_URL=http://localhost:5000
+4. Add your API URL:
+   ```bash
+   REACT_APP_API_URL=http://localhost:5000
 
-Run the application:
-npm start
+5. Run the application:
+   ```bash
+   npm start
 
 
 Usage:
@@ -109,13 +111,16 @@ Follow these instructions to set up the project locally.
    git clone https://github.com/7mayur14/VidTech.git
 
 2. Navigate to the project directory:
-cd VidTech
+   ```bash
+   cd VidTech
 
-3. Install dependencies:
-npm install
+4. Install dependencies:
+   ```bash
+   npm install
 
-4. Start the development server:
-npm start
+6. Start the development server:
+   ```bash
+   npm start
 
 ### Usage
 Upload a video file using the upload form.
