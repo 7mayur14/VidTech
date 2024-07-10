@@ -1,0 +1,36 @@
+.about {
+  text-align: center;
+  margin: 20px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.social-icon {
+  width: 60px; /* Adjust width as needed */
+  height: 60px; /* Adjust height as needed */
+  border: 1px solid #ccc; /* Border style */
+  border-radius: 50%; /* Rounded shape */
+  overflow: hidden; /* Ensure round shape */
+  transition: transform 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.1); /* Scale up on hover */
+}
+
+.social-icon a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icon img {
+  width: 100%; /* Make the image fill its container */
+  height: 100%; /* Make the image fill its container */
+  object-fit: cover; /* Ensure the entire image is visible */
+}
