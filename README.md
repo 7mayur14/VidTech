@@ -96,5 +96,22 @@ Follow these instructions to set up the project locally.
 
 1. Clone the repository:
    ```bash
-  
+   git clone https://github.com/7mayur14/VidTech.git
+
+2. Navigate to the project directory:
+cd VidTech
+
+3. Install dependencies:
+npm install
+
+4. Start the development server:
+npm start
+
+### Usage
+Upload a video file using the upload form.
+Click on "Play on Screen" to play the video on the main screen.
+Click on "Remove Video" to delete a video from the list.
+Contributing
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+
 
